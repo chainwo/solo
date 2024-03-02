@@ -1,0 +1,2 @@
+# solo
+tea testnet
